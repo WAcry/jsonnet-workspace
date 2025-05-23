@@ -1,0 +1,52 @@
+[
+  {
+    "item_ids": [
+      "item_B",
+      "item_A",
+      "item_E",
+      "item_F"
+    ],
+    "user_id": 1003,
+    "user_key": "user_1004"
+  },
+  {
+    "item_ids": [
+      "item_B",
+      "item_A",
+      "item_E",
+      "item_F"
+    ],
+    "user_id": 1003,
+    "user_key": "user_1004"
+  },
+  {
+    "item_ids": [
+      "item_B",
+      "item_A",
+      "item_E",
+      "item_F"
+    ],
+    "user_id": 1003,
+    "user_key": "user_1004"
+  },
+  {
+    "item_ids": [
+      "item_B",
+      "item_A",
+      "item_E",
+      "item_F"
+    ],
+    "user_id": 1003,
+    "user_key": "user_1004"
+  },
+  {
+    "item_ids": [
+      "item_B",
+      "item_A",
+      "item_E",
+      "item_F"
+    ],
+    "user_id": 1003,
+    "user_key": "user_1004"
+  }
+]
