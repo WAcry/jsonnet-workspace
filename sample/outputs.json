@@ -1,52 +1,142 @@
 [
   {
     "item_ids": [
-      "item_B",
+      "item_F",
       "item_A",
       "item_E",
-      "item_F"
+      "item_C"
     ],
-    "user_id": 1003,
-    "user_key": "user_1004"
+    "order_items": [
+      {
+        "amount": 30,
+        "order_id": 3
+      },
+      {
+        "amount": 20,
+        "order_id": 2
+      },
+      {
+        "amount": 10,
+        "order_id": 1
+      },
+      {
+        "amount": 50,
+        "order_id": 5
+      }
+    ],
+    "user_id": 1005,
+    "user_key": "user_1001"
   },
   {
     "item_ids": [
-      "item_B",
+      "item_F",
       "item_A",
       "item_E",
-      "item_F"
+      "item_C"
     ],
-    "user_id": 1003,
-    "user_key": "user_1004"
+    "order_items": [
+      {
+        "amount": 30,
+        "order_id": 3
+      },
+      {
+        "amount": 20,
+        "order_id": 2
+      },
+      {
+        "amount": 10,
+        "order_id": 1
+      },
+      {
+        "amount": 50,
+        "order_id": 5
+      }
+    ],
+    "user_id": 1005,
+    "user_key": "user_1001"
   },
   {
     "item_ids": [
-      "item_B",
+      "item_F",
       "item_A",
       "item_E",
-      "item_F"
+      "item_C"
     ],
-    "user_id": 1003,
-    "user_key": "user_1004"
+    "order_items": [
+      {
+        "amount": 30,
+        "order_id": 3
+      },
+      {
+        "amount": 20,
+        "order_id": 2
+      },
+      {
+        "amount": 10,
+        "order_id": 1
+      },
+      {
+        "amount": 50,
+        "order_id": 5
+      }
+    ],
+    "user_id": 1005,
+    "user_key": "user_1001"
   },
   {
     "item_ids": [
-      "item_B",
+      "item_F",
       "item_A",
       "item_E",
-      "item_F"
+      "item_C"
     ],
-    "user_id": 1003,
-    "user_key": "user_1004"
+    "order_items": [
+      {
+        "amount": 30,
+        "order_id": 3
+      },
+      {
+        "amount": 20,
+        "order_id": 2
+      },
+      {
+        "amount": 10,
+        "order_id": 1
+      },
+      {
+        "amount": 50,
+        "order_id": 5
+      }
+    ],
+    "user_id": 1005,
+    "user_key": "user_1001"
   },
   {
     "item_ids": [
-      "item_B",
+      "item_F",
       "item_A",
       "item_E",
-      "item_F"
+      "item_C"
     ],
-    "user_id": 1003,
-    "user_key": "user_1004"
+    "order_items": [
+      {
+        "amount": 30,
+        "order_id": 3
+      },
+      {
+        "amount": 20,
+        "order_id": 2
+      },
+      {
+        "amount": 10,
+        "order_id": 1
+      },
+      {
+        "amount": 50,
+        "order_id": 5
+      }
+    ],
+    "user_id": 1005,
+    "user_key": "user_1001"
   }
 ]
